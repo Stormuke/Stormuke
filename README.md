@@ -1,4 +1,4 @@
-![stormuke](./assets/stormuke.gif) 
+![stormuke](https://github.com/Stormuke/Stormuke/blob/main/assets/stormuke.gif?raw=true) 
 ---
 
 Hi, I'm [Alexey](https://github.com/Stormuke) 👋
