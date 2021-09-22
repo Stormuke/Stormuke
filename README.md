@@ -13,6 +13,10 @@ Languages and Tools :
 ![javascript](https://img.shields.io/badge/JavaScript-090909?style=flat-square&logo=javascript)
 ![figma](https://img.shields.io/badge/Figma-090909?style=flat-square&logo=figma)
 ![git](https://img.shields.io/badge/Git-090909?style=flat-square&logo=git)
-![github](https://img.shields.io/badge/GitHub-090909?style=flat-square&logo=github)
 
-Social Media
+
+My Social Media :
+
+[![github](https://img.shields.io/badge/GitHub-090909?style=flat-square&logo=github)](https://github.com/Stormuke)
+[![telegram](https://img.shields.io/badge/Telegram-090909?style=flat-square&logo=telegram)](https://t.me/stormuke)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-090909?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=79647171711)
