@@ -3,10 +3,11 @@
 
 Hi, I'm [Alexey](https://github.com/Stormuke) 👋
 ---
+<img align='right' src="https://raw.githubusercontent.com/Stormuke/Stormuke/main/assets/thecatwritesthecode.gif" width="230">
+
 :rocket:  I’m currently learning in [Yandex.Praktikum](https://practicum.yandex.ru/)
 -----
-
-Languages and Tools :
+<p style="text-align: center">Languages and Tools</p>
 
 ![html](https://img.shields.io/badge/HTML5-090909?style=flat-square&logo=html5)
 ![css](https://img.shields.io/badge/CSS3-090909?style=flat-square&logo=css3)
@@ -15,7 +16,7 @@ Languages and Tools :
 ![git](https://img.shields.io/badge/Git-090909?style=flat-square&logo=git)
 
 
-My Social Media :
+<p style="text-align: center">My Social Media</p>
 
 [![github](https://img.shields.io/badge/GitHub-090909?style=flat-square&logo=github)](https://github.com/Stormuke)
 [![telegram](https://img.shields.io/badge/Telegram-090909?style=flat-square&logo=telegram)](https://t.me/stormuke)
