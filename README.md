@@ -1,11 +1,10 @@
 ![stormuke](./assets/stormuke.gif) 
 ---
 
-<div class="container">### Hi, I'm
-[Alexey](https://github.com/Stormuke) 👋</div>
-
-##### :rocket:  I’m currently learning in [Yandex.Praktikum](https://practicum.yandex.ru/)
-
+Hi, I'm [Alexey](https://github.com/Stormuke) 👋
+---
+:rocket:  I’m currently learning in [Yandex.Praktikum](https://practicum.yandex.ru/)
+-----
 
 Languages and Tools :
 
