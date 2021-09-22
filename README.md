@@ -1,10 +1,9 @@
 ![stormuke](https://github.com/Stormuke/Stormuke/blob/main/assets/stormuke.gif?raw=true) 
 ---
-
-Hi, I'm [Alexey](https://github.com/Stormuke) 👋
----
 <img align='right' src="https://raw.githubusercontent.com/Stormuke/Stormuke/main/assets/thecatwritesthecode.gif" width="230">
 
+Hi, I'm [Alexey](https://github.com/Stormuke) 👋
+===
 :rocket:  I’m currently learning in [Yandex.Praktikum](https://practicum.yandex.ru/)
 -----
 <p style="text-align: center">Languages and Tools</p>
