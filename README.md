@@ -20,3 +20,5 @@ Hi, I'm [Alexey](https://github.com/Stormuke) 👋
 [![github](https://img.shields.io/badge/GitHub-090909?style=flat-square&logo=github)](https://github.com/Stormuke)
 [![telegram](https://img.shields.io/badge/Telegram-090909?style=flat-square&logo=telegram)](https://t.me/stormuke)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-090909?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=79647171711)
+
+![codewars](https://www.codewars.com/users/Stormuke/badges/micro)
