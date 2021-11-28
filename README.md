@@ -14,8 +14,7 @@ Hi, I'm [Alexey](https://github.com/Stormuke) 👋
 ![css](https://img.shields.io/badge/CSS3-090909?style=flat-square&logo=css3)
 ![webpack](https://img.shields.io/badge/Webpack-090909?style=flat-square&logo=webpack)
 
-
-![REST-api](https://img.shields.io/badge/REST-api-090909?style=flat-square&logo=rest-api)
+![REST-api](https://img.shields.io/badge/Api-rest-090909?style=flat-square&logo=RESTapi)
 ![postcss](https://img.shields.io/badge/PostCSS-090909?style=flat-square&logo=postcss)
 ![babel](https://img.shields.io/badge/Babel-090909?style=flat-square&logo=babel)
 ![figma](https://img.shields.io/badge/Figma-090909?style=flat-square&logo=figma)
